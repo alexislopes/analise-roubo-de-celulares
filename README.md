@@ -1,3 +1,3 @@
 # analise-roubo-de-celulares
 
-alunos: Alexis Lopes • José Roberto
+análise de roubo de celulares computados pelo DINTER de São José dos Campos;
